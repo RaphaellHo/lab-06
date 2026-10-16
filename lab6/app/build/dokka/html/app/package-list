@@ -1,0 +1,10 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:////PointingToDeclaration/app/[root]/index.html
+$dokka.location:/Wizard///PointingToDeclaration/app/[root]/-wizard/index.html
+$dokka.location:/Wizard/Wizard/#kotlin.String#kotlin.Int#kotlin.Int/PointingToDeclaration/app/[root]/-wizard/-wizard.html
+$dokka.location:/Wizard/castSpell/#kotlin.String/PointingToDeclaration/app/[root]/-wizard/cast-spell.html
+$dokka.location:/Wizard/mana/#/PointingToDeclaration/app/[root]/-wizard/mana.html
+$dokka.location:/Wizard/name/#/PointingToDeclaration/app/[root]/-wizard/name.html
+$dokka.location:/Wizard/spellPower/#/PointingToDeclaration/app/[root]/-wizard/spell-power.html
+
